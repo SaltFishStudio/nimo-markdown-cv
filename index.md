@@ -48,11 +48,6 @@ Zhengzhou, China
 
 _Research Intern_<br>
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2015.4.1 - 2015.4.7`
-
-_Engineering Intern_<br>
-One week of production internship. I have systematically learned the theoretical knowledge of routers, and completed the whole production process including component selection, welding and testing.
-
 ### **PID Temperature Control Water Heater** `2016.3 - 2017.3`
 
 _Project Supervisior_<br>
@@ -77,20 +72,18 @@ Basic Linux system operation <br>
 
 ## Language Skill
 
-CET-6 <br>
-IELTS 6.5 overall (7.5 7.5 6.0 6.0) <br>
-1 year UK postgraduate study <br>
+CET-6, IELTS 6.5 <br>
+1 year UK postgraduate experoence <br>
 Proficiency in vocabulary of Electricity, Electronics, Communication and Computer <br>
-Access to read and write related paper, journals or do technical exchange <br>
+Access to read and write related paper, journals or do technical exchange in both Chinese and English <br>
 
 ---
 
 ## Hobby
 
-Photography, including image and audio post process, video clip <br>
-Fitness,  basic knowledge of Human anatomy, nutriology and fitness plan <br>
+Photography - image and audio post process <br>
+Fitness - basic knowledge of human anatomy, nutriology and fitness plan <br>
 Economy, history, international politics <br>
-Nice Chinese writing ability <br>
 
 
 <!-- ### Footer
