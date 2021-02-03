@@ -23,7 +23,7 @@ Supported arguments:
 
 ## Education
 
-### **University of Nottingham** `2020.9 - 2021.9（Expected）`
+### **University of Nottingham** `2020.9 - 2021.9`
 
 ```
 Nottingham, UK
@@ -44,9 +44,10 @@ Zhengzhou, China
 
 ## Project Experience
 
-### **Router Principle and Production** `2020.5 -`
+### **Router Principle and Production** `2015.4 - 2015.5`
 
 _Research Intern_<br>
+One week of production internship. I have systematically learned the theoretical knowledge of routers, and completed the whole production process including component selection, welding and testing.
 
 ### **PID Temperature Control Water Heater** `2016.3 - 2017.3`
 
