@@ -5,7 +5,7 @@ email:
   text: eexxl44@nottingham.ac.uk
 ---
 
-# **LI** **XIANG**
+# **李** **想**
 
 <!--
 include contact information from the front matter
@@ -17,69 +17,69 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育经历
 
-### **Zhengzhou University** `2014.9 - 2018.7`
-
-```
-Zhengzhou, China
-```
-
-- Bachelor Degree of Engineering
-- Electronic and Information Engineering，School of Information Engineering
-
-### **University of Nottingham** `2020.9 - 2021.9`
+### **郑州大学** `2014.9 - 2018.7`
 
 ```
-Nottingham, UK
+郑州, 中国
 ```
 
-- Master of Science Degree
-- Electronic Communication and Computer Engineering，Department of Electrical & Electronic Engineering 
+- 工学学士学位
+- 电子与信息工程专业，信息工程学院
+
+### **诺丁汉大学** `2020.9 - 2021.9`
+
+```
+诺丁汉, 英国
+```
+
+- 理工硕士学位
+- 电子通信与计算机工程，电气与电子工程系
 
 
-## Project Experience
+## 项目经历
 
-### **Production Practice** `2015.4 - 2015.5`
+### **生产实习** `2015.4 - 2015.5`
 
-_Research Intern_<br>
-To learn router principle and production. Systematically learned the theoretical knowledge of routers, and completed the whole production process including component selection, welding and testing.
+_实习生_<br>
+学习路由器原理和制作。系统地学习了路由器的理论知识，完成了包括零件选择，焊接和测试在内的整个生产过程。
 
-### **Zhengzhou University, Group design** `2016.3 - 2017.3`
+### **郑州大学, 课题设计** `2016.3 - 2017.3`
 
-_Project Supervisior_<br>
-A small group of eight people work differently to design a temperature heating and control device based on stm32 and this project is completed under the guidance of a mentor. As a project supervisor, I am mainly responsible for the overall process control, including task splitting, issuing, Gantt chart drawing and recording, emergency plan formulation and implementation, final display and explanation, etc. I am also involved in the selection of components, debugging, temperature control PID algorithm adjustment, and some welding work.
+_项目监督_<br>
+一个由八人组成的研发设计小组。项目包含调研选题，研发，测试和成品展示阶段。设计基于stm32的温度加热和控制设备，该项目在导师的指导下完成。作为项目主管，我主要负责整体过程控制，包括任务拆分，发布，甘特图绘制和记录，应急计划的制定和实施，最终展示和说明等，同时还兼职了元器件采购，部分温控PID算法调整以及焊接工作。
 
-### **Zhengzhou University, Graduation Project for Undergraduate** `2017.12 - 2018.6`
-_Database Developer_<br>
-Internet of Vehicles System is a giant horizontal project from my tutor. I am responsible for the database and management system design, which is mainly on Linux system, using mysql, c, navicat design the Internet of Vehicles database, and importing a large amount of data to continuously test and optimize to obtain the available retrieval speed, finally using LAMP develop a small web page to testing the connection. 
+### **郑州大学, 本科毕业设计** `2017.12 - 2018.6`
+_数据库研发_<br>
+车联网系统是导师的一个大型横向项目。我主要负责后台数据库和数据库管理系统的设计，包含数据库需求收集，结构设计，物理实现，实验性运行与维护。该设计基于Linux系统，使用mysql，c，Navicat设计车辆互联网数据库，并导入大量数据以进行连续测试和优化以获得可用的检索速度，最后使用LAMP(Linux Apache MySQL PHP)开发一个小型网页进行测试。
 
-## Engineering Skill
+## 工程技术能力
 
-Skilled MATLAB signal time＆frequency domain analyzation, filter design <br>
-Skilled knowledge of signal processing, communication，system and control theory <br>
-Skilled power electronics modeling and simulation in both MATLAB simulink and LT-spice <br>
-Basic VHDL programming ability, Xilinx FPGA/Vivado design flow <br>
-Basic knowledge of RF, ability of ADS RF modeling and analyzation <br>
-Basic knowledge of power suply and power electronic <br>
-Basic knowledge of Optical grating sensor and its application on industrial field <br>
-Basic Python programming <br>
-Basic AutoCAD modeling <br>
-Basic Linux system operation <br>
+熟练MATLAB信号时频域分析，数字信号处理，滤波器设计 <br>
+信号，通信，系统控制论方面的专业知识 <br>
+熟练电力电子建模和仿真，基于MATLAB simulink和LT-spice <br>
+基本的VHDL编程能力，Xilinx FPGA / Vivado设计流程 <br>
+基础射频知识，ADS射频建模和分析能力 <br>
+供电，电力电子基础知识 <br>
+光栅传感器的基础知识及其在工业领域的应用 <br>
+基本的Python编程能力 <br>
+基本的AutoCAD建模能力 <br>
+基础Linux系统操作 <br>
 
-## Language Skill
+## 语言能力
 
-CET-4＆CET-6 <br>
-IELTS 6.5 (7.5 7.0 6.0 6.0) <br>
-1 year UK postgraduate experience <br>
-Proficiency in vocabulary of Electricity, Electronics, Communication and Computer <br>
-Access to read and write related paper, journals or do technical exchange in both Chinese and English <br>
+大学四六级 <br>
+雅思 6.5 (7.5 7.0 6.0 6.0) <br>
+1年英国研究生经历<br>
+熟练掌握电力，电子，通信和计算机的词汇 <br>
+可以阅读和撰写中英文相关的论文，期刊或进行技术交流 <br>
 
-## Hobby
+## 一些爱好
 
-Photography - image and audio post process <br>
-Fitness - basic knowledge of human anatomy, nutriology and fitness plan <br>
-Economy, history, international politics <br>
+摄影-懂些图像和音频后期处理 <br>
+健身-懂些人体解剖学，营养学和健身计划设计 <br>
+经济学，历史，国际政治相关 <br>
 
 
 <!-- ### Footer
