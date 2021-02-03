@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: LI XIANG CV
+title: LI XIANG
 email:
   text: eexxl44@nottingham.ac.uk
 ---
