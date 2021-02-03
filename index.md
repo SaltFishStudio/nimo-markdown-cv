@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: LI XIANG CV
 email:
   text: eexxl44@nottingham.ac.uk
 ---
@@ -74,8 +74,6 @@ IELTS 6.5 (7.5 7.0 6.0 6.0) <br>
 1 year UK postgraduate experience <br>
 Proficiency in vocabulary of Electricity, Electronics, Communication and Computer <br>
 Access to read and write related paper, journals or do technical exchange in both Chinese and English <br>
-
----
 
 ## Hobby
 
