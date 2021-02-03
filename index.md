@@ -59,15 +59,15 @@ _数据库研发_<br>
 熟练MATLAB信号时频域分析，数字信号处理，滤波器设计 <br>
 信号，通信，系统控制论方面的专业知识 <br>
 熟练电力电子建模和仿真，基于MATLAB simulink和LT-spice <br>
-基本的VHDL编程能力，Xilinx FPGA / Vivado设计流程 <br>
+基本VHDL编程能力，Xilinx FPGA / Vivado设计流程 <br>
 基础射频知识，ADS射频建模和分析能力 <br>
 供电，电力电子基础知识 <br>
 光栅传感器的基础知识及其在工业领域的应用 <br>
-基本的Python编程能力 <br>
-基本的AutoCAD建模能力 <br>
+基本Python编程能力 <br>
+基本AutoCAD建模能力 <br>
 基础Linux系统操作 <br>
 
-
+---
 
 ## 语言水平
 
