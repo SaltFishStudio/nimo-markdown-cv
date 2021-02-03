@@ -19,15 +19,6 @@ Supported arguments:
 
 ## Education
 
-### **University of Nottingham** `2020.9 - 2021.9`
-
-```
-Nottingham, UK
-```
-
-- Master of Science Degree
-- Electronic Communication and Computer Engineering，Department of Electrical & Electronic Engineering 
-
 ### **Zhengzhou University** `2014.9 - 2018.7`
 
 ```
@@ -36,6 +27,15 @@ Zhengzhou, China
 
 - Bachelor Degree of Engineering
 - Electronic and Information Engineering，School of Information Engineering
+
+### **University of Nottingham** `2020.9 - 2021.9`
+
+```
+Nottingham, UK
+```
+
+- Master of Science Degree
+- Electronic Communication and Computer Engineering，Department of Electrical & Electronic Engineering 
 
 
 ## Project Experience
