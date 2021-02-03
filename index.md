@@ -51,7 +51,7 @@ _Project Supervisior_<br>
 A small group of eight people work differently to design a temperature heating and control device based on stm32 and this project is completed under the guidance of a mentor. As a project supervisor, I am mainly responsible for the overall process control, including task splitting, issuing, Gantt chart drawing and recording, emergency plan formulation and implementation, final display and explanation, etc. I am also involved in the selection of components, debugging, temperature control PID algorithm adjustment, and some welding work.
 
 ### **Zhengzhou University, Graduation Project for Undergraduate** `2017.12 - 2018.6`
-_Database developer_<br>
+_Database Developer_<br>
 Internet of Vehicles System is a giant horizontal project from my tutor. I am responsible for the database and management system design, which is mainly on Linux system, using mysql, c, navicat design the Internet of Vehicles database, and importing a large amount of data to continuously test and optimize to obtain the available retrieval speed, finally using LAMP develop a small web page to testing the connection. 
 
 ## Engineering Skill
